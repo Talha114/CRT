@@ -24,7 +24,9 @@ Creates the outline of the grid. And then fills the grid with candies.
 
 8.	Color_Bomb:
 Crushes all candies that are swapped with the color bomb.
+
  
+
 ![crt1](https://user-images.githubusercontent.com/88310782/229896552-d015bc6f-6fa8-4b1f-aaa0-78cc6ad8af90.jpg)
 ![crt2](https://user-images.githubusercontent.com/88310782/229896603-86e9416b-3d74-4057-a834-682014d864ae.png)
 ![crt3](https://user-images.githubusercontent.com/88310782/229896635-3d27486b-0d28-4f91-8b24-a745b4559eea.png)
